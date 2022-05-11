@@ -1,0 +1,5 @@
+﻿  Fabryka.cpp
+  listaOsob.cpp
+  Generowanie kodu...
+C:\Users\werne\Desktop\Projekt Paradygmaty programowania\Projekt Paradygmaty programowania\Fabryka.cpp(14): warning C4715: "Fabryka::stworzOsobe”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt Paradygmaty programowania.vcxproj -> C:\Users\werne\Desktop\Projekt Paradygmaty programowania\x64\Debug\Projekt Paradygmaty programowania.exe
